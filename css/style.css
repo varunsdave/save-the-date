@@ -10,7 +10,7 @@ html {
     scroll-behavior: smooth;
 }
 #intro {
-    background: url("../img/IMG_6944_square.JPG") no-repeat center center fixed;
+    background: url("../img/IMG_6944_2.JPG") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -37,14 +37,14 @@ html {
 .custom-varun-font {
     font-family: 'Great Vibes', cursive;
     font-weight: bold;
-    font-size: 2rem;
+    /*font-size: 2rem;*/
 }
 
 .custom-varun-font-big-margin {
     margin-top: 50%;
     font-family: 'Great Vibes', cursive;
     font-weight: lighter;
-    font-size: 6rem;
+    /*font-size: 6rem;*/
 }
 
 .custom-varun-font-big {
