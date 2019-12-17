@@ -10,7 +10,7 @@ html {
     scroll-behavior: smooth;
 }
 #intro {
-    background: url("../img/IMG_6944_2.JPG") no-repeat center center fixed;
+    background: url("../img/IMG_20190610_123255_cropped.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -41,7 +41,7 @@ html {
 }
 
 .custom-varun-font-big-margin {
-    margin-top: 50%;
+    /*margin-top: -60%;*/
     font-family: 'Great Vibes', cursive;
     font-weight: lighter;
     /*font-size: 6rem;*/
