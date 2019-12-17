@@ -15,6 +15,13 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    border: 10px solid white;
+}
+.padding-center {
+    /*margin-left: 99%;*/
+}
+.custom-navbar {
+    box-shadow: none !important;
 }
 
 .custom-border {
@@ -33,16 +40,23 @@ html {
     font-size: 2rem;
 }
 
-.custom-varun-font-big {
+.custom-varun-font-big-margin {
+    margin-top: 50%;
     font-family: 'Great Vibes', cursive;
     font-weight: lighter;
     font-size: 6rem;
 }
 
-.custom-varun-font-medium {
+.custom-varun-font-big {
     font-family: 'Great Vibes', cursive;
     font-weight: lighter;
     font-size: 4rem;
+}
+
+.custom-varun-font-medium {
+    font-family: 'Great Vibes', cursive;
+    font-weight: lighter;
+    font-size: 3rem;
 }
 .date-font {
     font-family: 'Poiret One', cursive;
