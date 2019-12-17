@@ -1,0 +1,71 @@
+html,
+body,
+header,
+
+#intro {
+    height: 100%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+#intro {
+    background: url("../img/IMG_6944_square.JPG") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.custom-border {
+    border: double;
+    border-color: #24355C;
+    padding-top: 5px;
+}
+
+.top-nav-collapse {
+  background-color: #24355C;
+}
+
+.custom-varun-font {
+    font-family: 'Great Vibes', cursive;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.custom-varun-font-big {
+    font-family: 'Great Vibes', cursive;
+    font-weight: lighter;
+    font-size: 6rem;
+}
+
+.custom-varun-font-medium {
+    font-family: 'Great Vibes', cursive;
+    font-weight: lighter;
+    font-size: 4rem;
+}
+.date-font {
+    font-family: 'Poiret One', cursive;
+    text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+  .navbar:not(.top-nav-collapse) {
+    background-color: #24355C;
+  }
+}
+@media (min-width: 800px) and (max-width: 850px) {
+  .navbar:not(.top-nav-collapse) {
+    background-color: #24355C;
+  }
+}
+
+/* Carousel*/
+.carousel,
+.carousel-item,
+.carousel-item.active {
+    height: 100%;
+}
+.carousel-inner {
+    height: 100%;
+}
