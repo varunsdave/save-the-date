@@ -63,15 +63,78 @@ html {
     text-transform: uppercase;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 525px) {
+    #intro {
+        background: url("../img/small_screen.png") no-repeat center center fixed;
+        background-color: black;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        /*background-size: contain;*/
+        border: 10px solid white;
+    }
+
+    .display-1 {
+        font-size: 2rem;
+    }
+    .custom-varun-font-big-margin {
+        margin-top: -60%;
+        font-family: 'Great Vibes', cursive;
+        font-weight: lighter;
+        /*font-size: 6rem;*/
+    }
   .navbar:not(.top-nav-collapse) {
     background-color: #24355C;
   }
 }
-@media (min-width: 800px) and (max-width: 850px) {
+
+@media (min-width:526px) and (max-width: 800px) {
+    #intro {
+        background: url("../img/medium_home_screen.png") no-repeat center center fixed;
+        background-color: black;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        /*background-size: contain;*/
+        border: 10px solid white;
+    }
+
+    .display-1 {
+        font-size: 4rem;
+    }
+    .custom-varun-font-big-margin {
+        margin-top: -60%;
+        font-family: 'Great Vibes', cursive;
+        font-weight: lighter;
+        /*font-size: 6rem;*/
+    }
+    .navbar:not(.top-nav-collapse) {
+        background-color: #24355C;
+    }
+}
+@media (min-width: 801px) and (max-width: 1025px) {
+    #intro {
+        background: url("../img/medium_home_screen.png") no-repeat center center fixed;
+        background-color: black;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        /*background-size: contain;*/
+        border: 10px solid white;
+    }
+    .display-1 {
+        /*font-size: 3rem;*/
+    }
+    .custom-varun-font-big-margin {
+        margin-top: -60%;
+        font-family: 'Great Vibes', cursive;
+        font-weight: lighter;
+        font-size: 6rem;
+    }
   .navbar:not(.top-nav-collapse) {
     background-color: #24355C;
   }
+
 }
 
 /* Carousel*/
