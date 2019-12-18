@@ -61,6 +61,7 @@ html {
 .date-font {
     font-family: 'Poiret One', cursive;
     text-transform: uppercase;
+    font-size: 2rem;
 }
 
 @media (max-width: 525px) {
