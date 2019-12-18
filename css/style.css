@@ -27,6 +27,7 @@ html {
 .custom-border {
     border: double;
     border-color: #24355C;
+    padding: 1rem;
 
 }
 
