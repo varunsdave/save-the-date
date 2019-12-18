@@ -28,6 +28,18 @@ html {
     border: double;
     border-color: #24355C;
     padding-top: 5px;
+
+}
+
+.custom-save-the-date {
+    /*background: url("../img/My Post (1).jpg") ;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /*background-repeat: repeat-x;*/
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .top-nav-collapse {
