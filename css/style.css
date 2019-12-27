@@ -78,7 +78,7 @@ html {
 
 @media (max-width: 525px) {
     #intro {
-        background: url("../img/small_screen.png") no-repeat center center fixed;
+        background: url("../img/IMG_7785.JPG") no-repeat center center fixed;
         background-color: black;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -127,7 +127,7 @@ html {
 }
 @media (min-width: 801px) and (max-width: 1025px) {
     #intro {
-        background: url("../img/medium_home_screen.png") no-repeat center center fixed;
+        background: url("../img/IMG_7785.JPG") no-repeat center center fixed;
         background-color: black;
         -webkit-background-size: cover;
         -moz-background-size: cover;
