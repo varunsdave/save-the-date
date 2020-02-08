@@ -54,7 +54,7 @@ html {
 
 .custom-varun-font-regular {
     font-family: 'Great Vibes', cursive;
-    font-size: 2rem;
+    font-size: 1.3rem;
 }
 
 .custom-varun-font-big-margin {
@@ -80,6 +80,8 @@ html {
     text-transform: uppercase;
     font-size: 2rem;
 }
+
+
 
 @media (max-width: 525px) {
     #intro {
