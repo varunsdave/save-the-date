@@ -52,6 +52,11 @@ html {
     /*font-size: 2rem;*/
 }
 
+.custom-varun-font-regular {
+    font-family: 'Great Vibes', cursive;
+    font-size: 2rem;
+}
+
 .custom-varun-font-big-margin {
     /*margin-top: -60%;*/
     font-family: 'Great Vibes', cursive;
