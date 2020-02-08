@@ -10,7 +10,7 @@ html {
     scroll-behavior: smooth;
 }
 #intro {
-    background: url("../img/IMG_20190610_123255_cropped_flipped.jpg") no-repeat center center fixed;
+    background: url("../img/IMG_7785-min-min.JPG") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -78,7 +78,7 @@ html {
 
 @media (max-width: 525px) {
     #intro {
-        background: url("../img/small_screen.png") no-repeat center center fixed;
+        background: url("../img/IMG_7785-min-min.JPG") no-repeat center center fixed;
         background-color: black;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -103,7 +103,7 @@ html {
 
 @media (min-width:526px) and (max-width: 800px) {
     #intro {
-        background: url("../img/medium_home_screen.png") no-repeat center center fixed;
+        background: url("../img/IMG_7785-min-min.JPG") no-repeat center center fixed;
         background-color: black;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -127,7 +127,7 @@ html {
 }
 @media (min-width: 801px) and (max-width: 1025px) {
     #intro {
-        background: url("../img/medium_home_screen.png") no-repeat center center fixed;
+        background: url("../img/IMG_7785-min-min.JPG") no-repeat center center fixed;
         background-color: black;
         -webkit-background-size: cover;
         -moz-background-size: cover;
